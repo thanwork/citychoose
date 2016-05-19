@@ -7,6 +7,8 @@
 * 基于定位的城市选择
 * 热点城市展示(随便写了9个城市。。。)
 
+ ![image](https://github.com/thanwork/citychoose/raw/master/screenshot/IMG_0052.png)
+
 ##代码实现
 ###写代码之前
 1. 由于定位使用的是高德定位API，需要先在高德开发者网站上申请apikey；
